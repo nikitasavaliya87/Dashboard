@@ -8,5 +8,4 @@ The main objectives of this project are to:
 - Analyze participation trends over time.
 - Explore medal distributions by country, sport, and gender.
 - Identify top-performing countries and athletes.
-- Investigate correlations between various factors like GDP, population, and Olympic success.
 - Visualize key findings using interactive charts and graphs.
